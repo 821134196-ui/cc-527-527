@@ -13,3 +13,9 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 本地运行数据 (SQLite 与巡查照片)
+data/
+*.db
+*.db-wal
+*.db-shm
